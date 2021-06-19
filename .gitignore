@@ -1,0 +1,12 @@
+*.sav
+*.csv
+pyc files
+*.html
+*.xlsx
+static
+templates
+*.png
+*.ipynb
+*.exe
+*.log
+*.txt
