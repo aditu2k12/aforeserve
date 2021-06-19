@@ -2,6 +2,11 @@ import pyautogui
 import pywinauto
 import time
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import logging
+
+logging.basicConfig()
 flag=0
 def mailConfig():
     
